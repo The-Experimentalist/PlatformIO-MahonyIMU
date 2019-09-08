@@ -1,0 +1,39 @@
+{
+    "authors": [
+        {
+            "email": null, 
+            "url": "https://os.mbed.com/users/b50559/", 
+            "maintainer": false, 
+            "name": "Rio Harris"
+        }
+    ], 
+    "description": "library using mahony's algorithm for 9dof", 
+    "examples": [
+        "https://os.mbed.com/users/b50559/code/NerfGun_nRF24L01P_TX_9d0f/"
+    ], 
+    "frameworks": [
+        "mbed"
+    ], 
+    "keywords": [
+        "mahony_algorithm"
+    ], 
+    "name": "Mahony_Algorithm", 
+    "platforms": [
+        "atmelsam", 
+        "freescalekinetis", 
+        "maxim32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "nxplpc", 
+        "siliconlabsefm32", 
+        "ststm32", 
+        "teensy", 
+        "wiznet7500"
+    ], 
+    "repository": {
+        "type": "hg", 
+        "url": "https://os.mbed.com/users/b50559/code/Mahony_Algorithm/"
+    }, 
+    "version": "da9dac34fd", 
+    "id": 3993
+}
